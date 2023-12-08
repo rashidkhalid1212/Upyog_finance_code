@@ -30,15 +30,7 @@
 			
 			width		 : null, 
 			
-			minWidth	 : null,caption		 : '',
-
-			showhide	 : true,
-
-			theme		 : 'ui',
-
-			height		 : null,
-
-			width		 : null,
+			minWidth	 : null,
 			
 			minWidthAuto : false,
 			
